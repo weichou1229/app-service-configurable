@@ -4,6 +4,13 @@
 
 - [app-functions-sdk-go](https://github.com/edgexfoundry/app-functions-sdk-go/blob/main/CHANGELOG.md)
 
+## [4.0.2] - 2026-05-31
+
+### 👷 Build 
+- Update goVersion to 1.25 and golangci-lint to 2.5.0 ([#6718a0d](https://github.com/edgexfoundry/app-service-configurable/commits/6718a0d))
+- Update .gitignore and Attributions.txt ([#5cb4df1](https://github.com/edgexfoundry/app-service-configurable/commits/5cb4df1))
+
+
 ## [4.0.0] Odessa - 2025-03-12 (Only compatible with the 4.x releases)
 
 ### ✨  Features
